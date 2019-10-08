@@ -1,0 +1,9 @@
+C:\Users\Спок\source\repos\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Users\Спок\source\repos\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\Спок\source\repos\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\Спок\source\repos\Tetris\Tetris\obj\Release\Tetris.Form1.resources
+C:\Users\Спок\source\repos\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Users\Спок\source\repos\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.cache
+C:\Users\Спок\source\repos\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Спок\source\repos\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Users\Спок\source\repos\Tetris\Tetris\obj\Release\Tetris.pdb
